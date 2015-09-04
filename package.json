@@ -1,7 +1,7 @@
 {
-  "name": "scribe-plugin-words-bigrams-sentences",
-  "description": "Do the magic",
-  "version": "0.1.0",
+  "name": "scribe-plugin-ngrams",
+  "description": "Get ngrams from a given scribe instance",
+  "version": "0.1.1",
   "homepage": "https://github.com/hmgibson23/scribe-plugin-ngrams",
   "author": {
     "name": "hmgibson23",
